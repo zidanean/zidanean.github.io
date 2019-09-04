@@ -1,0 +1,106 @@
+#header{
+    background-color: gold;
+}
+
+#logo{
+    width: 150px;
+    height: 150px;
+    background-position: left;
+    padding:0%;
+}
+
+.tabelpilihan{
+    width: 960px;
+    float: 
+}
+/* start CSS UNTUK semua tulisan */
+ marquee{
+     color: goldenrod;
+ }
+  li{
+      color: gold;
+  }
+
+  p{
+    color: aliceblue;
+  }
+
+  cite{
+    color: aqua;
+  }
+
+   h2{
+       color: chartreuse;
+   }
+  /* end CSS UNTUK SEMUANYA */
+
+  h4{
+      color: gold;
+      font-size: 35px;
+  }
+
+.container{
+    margin:10px auto;
+    background-color:black;
+    height: 50px;
+    overflow: auto;
+    border-radius: 9px;
+    text-align: center;
+    display: :inline-block;
+    padding:10px;
+    
+    }
+  
+.menu a{
+    color:gold;
+    padding:5px;
+    border: 1px solid:gold;
+}
+.menu ul {
+    padding: 1px;
+    text-align: center;
+
+}
+
+
+
+
+  
+.gambar{
+    text-align: center;
+
+    
+}
+/* css ub=ntuk di produk sendal */
+#sendal{
+    width: 200px;
+    height: 200px;
+    padding: right;
+}
+/* end css untuk di produk sendal */
+
+.medsos{
+    color: gold;
+    font-style:inherit;
+}
+
+.fb{
+    width:  30px;
+    height:  30px;
+    color: gold;
+}
+.ig{
+    width: 30px;
+    height:  30px;
+    color: gold;
+}
+.e-mail{
+    width:  30px;
+    height:  30px;
+    color: gold;
+}
+.wa{
+    width:  30px;
+    height:  30px;
+    color: gold;
+}
